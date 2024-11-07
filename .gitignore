@@ -1,0 +1,4 @@
+.venv
+.env
+csv
+stream_tables.sql
